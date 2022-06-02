@@ -13,8 +13,7 @@ You can click the Preview link to take a look at your changes.
 </div>  
   
 
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25" width="25" align="center" /> I'm Kashyap, a 21yo self-taught web developer who 💛 JS and ❤️ solving problems  
-  
+## <div> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25" width="25" align="center" /> I'm Kashyap, a 21yo self-taught web developer who 💛 JS and ❤️ solving problems</div>  
 
 <br/>  
 
