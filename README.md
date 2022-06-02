@@ -1,10 +1,9 @@
+<!---
 - 👋 Hi, I’m @kashyap010
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
 kashyap010/kashyap010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -14,14 +13,14 @@ You can click the Preview link to take a look at your changes.
 </div>  
   
 
-## I'm Kashyap, a 21yo self-taught web developer who 💛 JS and ❤️ solving problems  
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25" width="25" align="center" /> I'm Kashyap, a 21yo self-taught web developer who 💛 JS and ❤️ solving problems  
   
 
 <br/>  
 
 
 
-## Connect with me  
+## 📫 Connect with me  
 <div>
 <a href="https://github.com/kashyap010" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -34,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 
-## What I've Worked With 
+## ⚡ What I've Worked With 
 <table><tr><td valign="top">
 
 ### Frontend  
@@ -66,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 
-## What I'm Currently Learning
+## 🌱 What I'm Currently Learning
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 
 <br/> 
