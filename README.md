@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 <br/>  
 
 
-
 ## 📫 Connect with me  
 <div>
 <a href="https://github.com/kashyap010" target="_blank">
@@ -28,9 +27,7 @@ You can click the Preview link to take a look at your changes.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
 
 ## ⚡ What I've Worked With 
 <table><tr><td valign="top">
@@ -63,8 +60,9 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 
+<!---
 ## 🌱 What I'm Currently Learning
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 
 <br/> 
-
+--->
