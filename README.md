@@ -11,12 +11,10 @@ You can click the Preview link to take a look at your changes.
 <div>
 <img src="https://s8.gifyu.com/images/hey-there.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 ## <div> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25" width="25" align="center" /> I'm Kashyap, a 21yo self-taught web developer who 💛 JS and ❤️ solving problems</div>  
 
 <br/>  
-
 
 ## 📫 Connect with me  
 <div>
@@ -53,7 +51,6 @@ You can click the Preview link to take a look at your changes.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 </div>
 
 </td></tr></table>  
