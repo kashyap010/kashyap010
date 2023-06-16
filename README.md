@@ -7,7 +7,7 @@
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashyap-shirodkar-034458240)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashyapshirodkar@gmail.com)
 
 ### ⚡ Skills and Technologies I've Worked With:
 #### Frontend:
